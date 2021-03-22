@@ -5,7 +5,7 @@ function myObject() {
         E: 2.71828
     };
     //Only change code below this line
-    Object.freeze(MATH_CONSTANTS)
+    Object.freeze(MATH_CONSTANTS);
     
     //Only change code above this line
     try {
